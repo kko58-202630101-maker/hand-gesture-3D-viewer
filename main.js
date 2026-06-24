@@ -1,5 +1,5 @@
 'use strict';
-
+ 
 // ── GLOBAL VARIABLES & STATES ──
 let scene, camera, renderer, stlMesh;
 let hands, mpCamera;
