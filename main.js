@@ -1,5 +1,5 @@
 'use strict';
-
+   
 let scene, camera, renderer, stlMesh;
 let hands, mpCamera;
 let cameraActive = false;
